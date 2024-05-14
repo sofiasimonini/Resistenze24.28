@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resistenze24.28", "Resistenze24.28\Resistenze24.28.csproj", "{219A0835-8918-42D4-BFE7-99B92A6860CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219A0835-8918-42D4-BFE7-99B92A6860CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219A0835-8918-42D4-BFE7-99B92A6860CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219A0835-8918-42D4-BFE7-99B92A6860CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219A0835-8918-42D4-BFE7-99B92A6860CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93BF70A4-B0F2-4EF0-A8E7-131282807C6F}
+	EndGlobalSection
+EndGlobal
